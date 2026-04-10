@@ -1,0 +1,5 @@
+{
+  "name": "Vinci AI Video Maker",
+  "description": "Generate cinematic videos from text prompts using Veo and Gemini AI.",
+  "requestFramePermissions": []
+}
